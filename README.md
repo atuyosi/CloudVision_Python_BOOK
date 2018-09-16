@@ -1,7 +1,7 @@
 
 # このリポジトリについて
 
-『Google Cloud Vison APIとPythonで文字認識』の関連ファイルのリポジトリです。
+『Google Cloud Vision APIとPythonで文字認識』の関連ファイルのリポジトリです。
 
 ## ディレクトリ構成
 
