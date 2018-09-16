@@ -38,6 +38,14 @@ $ export GOOGLE_APPLICATION_CREDENTIALS=/patho/to/your-credentials.json
 
 ## そのほか
 
+### 画像データについて
+
+`image_data`ディレクトリの画像うち、Webから入手したものは以下のとおりです。
+
+- 日本語版Wikipediaの[「光学文字認識」](https://ja.wikipedia.org/wiki/光学文字認識)のページの一部（`about_ocr.png`）
+- [プログラマが知るべき97のこと/DRY原則 - Wikisource](https://ja.wikisource.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%81%8C%E7%9F%A5%E3%82%8B%E3%81%B9%E3%81%8D97%E3%81%AE%E3%81%93%E3%81%A8/DRY%E5%8E%9F%E5%89%87)（`dry_image.pdf`）
+- 英語版Wikipediaの[OCR](https://en.wikipedia.org/wiki/Optical_character_recognition)のページ（`output_multi.tiff`）
+
 ###  pathlibについて
 
 ソースコードからサンプルデータにアクセスするパスの解決のために[`pathlib`](https://docs.python.org/ja/3.7/library/pathlib.html)を使用しています。
